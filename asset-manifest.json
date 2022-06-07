@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b76dcc3a.css",
+    "main.js": "/portfolio/static/js/main.e40328f5.js",
+    "static/media/KevinDuongResume.pdf": "/portfolio/static/media/KevinDuongResume.488658f56dead2be8873.pdf",
+    "static/media/resume-pic.jpg": "/portfolio/static/media/resume-pic.bbc3ec6036579752aed5.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.b76dcc3a.css.map": "/portfolio/static/css/main.b76dcc3a.css.map",
+    "main.e40328f5.js.map": "/portfolio/static/js/main.e40328f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76dcc3a.css",
+    "static/js/main.e40328f5.js"
+  ]
+}
