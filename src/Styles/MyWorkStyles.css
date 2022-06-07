@@ -20,7 +20,7 @@
 }
 .mywork{
     padding: 1rem;
-    flex: 1;
+    flex: 0;
     border: 5px solid rgb(196, 31, 157);
     margin: 10px 5px;
     border-radius: 25px;

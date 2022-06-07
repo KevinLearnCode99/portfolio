@@ -137,10 +137,12 @@
 }
 .pics-intro h1{
     color: papayawhip;
-    font-size: 4em;
+    font-size: 3em;
     font-family: 'ZCOOL KuaiLe', cursive;
     /* text-align: center; */
+    text-align: center;
 }
+
 
 @keyframes rotate{
     to{
